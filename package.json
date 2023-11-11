@@ -1,0 +1,7 @@
+{
+  "name": "parse_to_object",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mcheremnov <cheremnovmaksym@gmail.com>",
+  "license": "MIT"
+}
